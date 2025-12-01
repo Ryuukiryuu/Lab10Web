@@ -1,3 +1,9 @@
+**Nama   :** Wahyu Andika  
+**NIM    :** 312410182  
+**Kelas  :** TI.24.A2  
+**Matkul :** Pemrograman Web 1  
+**Dosen Pengampu :** Agung Nugroho, S.Kom., M.Kom
+
 # Lab10Web - PHP OOP
 
 Praktikum 10: Implementasi Object-Oriented Programming (OOP) dengan PHP
